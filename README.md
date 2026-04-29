@@ -1,3 +1,3 @@
-# Salom Profilni Bemalol tomosha qilishingiz mumkin! 👋
+# Salom Profilni Bemalol kuzatishingiz qilishingiz mumkin! 👋
 
 ![snake gif](https://raw.githubusercontent.com/Sunnatullo-Dev/Sunnatullo-Dev/output/github-contribution-grid-snake-dark.svg)
